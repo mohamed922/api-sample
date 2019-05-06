@@ -1,0 +1,9 @@
+table {
+    width: 100%;
+  }
+  .mat-sort-header-container {
+    align-items: center;
+  }
+  .example-full-width {
+    width: 100%;
+  }

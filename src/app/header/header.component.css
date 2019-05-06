@@ -1,0 +1,7 @@
+mat-icon {
+    color: red ;
+    text-align: center ;
+}
+.example-spacer {
+    flex: 1 1 auto;
+  }

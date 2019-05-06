@@ -1,0 +1,9 @@
+.center {
+    text-align:center ;
+    
+}
+.dir {
+    direction: rtl ;
+    text-align: center  ;
+    background-color: darkgray ;
+}

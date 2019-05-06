@@ -1,0 +1,8 @@
+<mat-card class="dir" *ngFor="let art of artic">
+    <mat-card-content>
+      <h2 class="center">{{art.title}}</h2>
+      <p class="center">{{art.description}}</p>
+      <img [src]= 'art.urlToImage' width="500px" height="300px">
+     
+    </mat-card-content>
+  </mat-card>
